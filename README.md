@@ -8,5 +8,11 @@
 1. [Tech Stacks (Updating to new version, tonight)](https://drive.google.com/file/d/1oUBl2PuH4JaKukTwUN2zYccwzD0ZpFrC/view?usp=sharing)
 
 ### Project Status
-<iframe src="https://e.widgetbot.io/channels/871696470066216980/879302521909309470" height="600" width="800"></iframe>
+<widgetbot
+    server="871696470066216980"
+    channel="879302521909309470"
+    width="700"
+    height="600"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
 
