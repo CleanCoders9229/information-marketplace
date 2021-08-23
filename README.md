@@ -11,7 +11,7 @@
 <widgetbot
     server="871696470066216980"
     channel="879302521909309470"
-    width="700"
+    width="100%"
     height="600"
 ></widgetbot>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
