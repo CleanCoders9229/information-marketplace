@@ -7,5 +7,6 @@
 ### Architectures
 1. [Tech Stacks (Updating to new version, tonight)](https://drive.google.com/file/d/1oUBl2PuH4JaKukTwUN2zYccwzD0ZpFrC/view?usp=sharing)
 
-<iframe src="https://discord.com/widget?id=871696470066216980&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+### Project Status
+<iframe src="https://e.widgetbot.io/channels/871696470066216980/879302521909309470" height="600" width="800"></iframe>
 
